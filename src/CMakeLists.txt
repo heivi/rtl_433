@@ -93,6 +93,7 @@ add_library(r_433 STATIC
     devices/elro_db286a.c
     devices/elv.c
     devices/emax.c
+    devices/emit_epost.c
     devices/emontx.c
     devices/emos_e6016.c
     devices/emos_e6016_rain.c
